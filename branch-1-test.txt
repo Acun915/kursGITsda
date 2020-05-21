@@ -1,1 +1,1 @@
-Wprowadzono funkcjonalność nową funkcjonalność w branch-1-test.txt
+Wprowadzono nową funkcjonalnośc na podstawie branch-conflict-2
